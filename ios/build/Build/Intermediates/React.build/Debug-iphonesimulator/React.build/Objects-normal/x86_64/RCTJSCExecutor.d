@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/admin/AwesomeProject/node_modules/react-native/React/Executors/RCTJSCWrapper.h
